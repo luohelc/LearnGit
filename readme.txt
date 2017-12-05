@@ -2,3 +2,4 @@
 new text
 hello git.
 nihao.
+Hi.
