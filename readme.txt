@@ -4,3 +4,4 @@ hello git.
 nihao.
 Hi.
 Branch Edit from master.
+Branch Edit from feature1.
