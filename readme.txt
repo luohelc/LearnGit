@@ -3,4 +3,4 @@ new text
 hello git.
 nihao.
 Hi.
-Branch Edit.
+Branch Edit from master.
